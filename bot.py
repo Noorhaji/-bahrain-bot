@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 TELEGRAM_BOT_TOKEN = "8820159092:AAHJdFQjHkOwJN-HxS4Na7HR_gPzhCQQu0s"
 TELEGRAM_CHAT_ID = "6798894448"
 
-ACCOUNTS = ["AJArabic", "BBCArabic"]
-KEYWORDS = ["البحرين", "بحرين", "Bahrain", "المنامة"]
+ACCOUNTS = ["AJArabic","khaled_9733","jaber_j","BBCArabic"]
+KEYWORDS = [,"البحرين", "الملك حمد", "Bahrain","الشيعة","الشيخ ناصر","بسام المعراج","وزير الداخلية", "المنامة"]
 NITTER = ["https://nitter.privacydev.net", "https://nitter.poast.org"]
 
 last_seen = {}
